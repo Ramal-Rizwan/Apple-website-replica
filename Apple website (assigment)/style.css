@@ -1,0 +1,28 @@
+.navbar-nav{
+    
+    padding-left: 200px;
+    justify-content: center;
+  
+}
+.text-center{
+    font-size: larger;
+}
+.container{
+    text-align: center;
+    
+}
+.img{
+    height: 30em;
+    text-align: center;
+}
+.watch{
+    background-color: rgb(247, 245, 247);
+    color: purple;
+}
+.para{
+    text-align: center;
+    padding-left: 20%;
+    padding-top: 2%;
+    padding-right: 20%;
+}
+
